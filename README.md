@@ -1,4 +1,3 @@
-# Getting Started
 # Front-End Assesment
 
 ## Run the application
