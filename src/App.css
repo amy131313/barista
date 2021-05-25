@@ -1,38 +1,35 @@
 .App {
+  font-family:'Courier New', Courier, monospace;
+  color:darkgrey;
+}
+
+.Header {
+  margin: 3%;
   text-align: center;
+  color: #584C47;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.coffee_name {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex-wrap: wrap;
+  text-transform: uppercase;
 }
 
-.App-link {
-  color: #61dafb;
+.text-center--header{
+  padding: 5% 3% 0% 5%;
+  text-transform: capitalize;
+  text-emphasis: open;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.table-responsive-sm {
+  background: rgba(247, 247, 247 ,0.8);
+  box-shadow:inset;
+
+}
+th {
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+td {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }

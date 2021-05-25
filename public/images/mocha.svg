@@ -1,0 +1,325 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 287 215" style="enable-background:new 0 0 287 215;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:url(#SVGID_4_);}
+	.st4{opacity:0.22;fill:url(#SVGID_5_);}
+	.st5{clip-path:url(#SVGID_7_);}
+	.st6{opacity:0.34;}
+	.st7{fill:url(#SVGID_8_);}
+	.st8{fill:url(#SVGID_9_);}
+	.st9{fill:url(#SVGID_10_);}
+	.st10{fill:url(#SVGID_11_);}
+	.st11{opacity:0.48;fill:url(#SVGID_12_);}
+	.st12{opacity:0.4;fill:url(#SVGID_13_);}
+	.st13{fill:url(#SVGID_14_);}
+	.st14{fill:url(#SVGID_15_);}
+	.st15{fill:url(#SVGID_16_);}
+	.st16{fill:#FFFFFF;}
+	.st17{fill:url(#SVGID_17_);}
+	.st18{clip-path:url(#SVGID_19_);}
+	.st19{opacity:0.33;clip-path:url(#SVGID_19_);}
+	.st20{fill:url(#SVGID_20_);}
+	.st21{fill:url(#SVGID_21_);}
+	.st22{fill:#804E08;}
+	.st23{opacity:0.25;}
+	.st24{opacity:0.42;}
+	.st25{opacity:0.19;}
+	.st26{opacity:0.59;}
+	.st27{opacity:0.6;}
+	.st28{opacity:0.49;}
+	.st29{opacity:0.78;}
+</style>
+<g>
+	
+		<radialGradient id="SVGID_1_" cx="147.4429" cy="746.8578" r="71.6243" gradientTransform="matrix(1 0 0 1.4308 0 -936.9201)" gradientUnits="userSpaceOnUse">
+		<stop offset="5.102040e-03" style="stop-color:#F0F0F0"/>
+		<stop offset="1" style="stop-color:#C7C7C7"/>
+	</radialGradient>
+	<path class="st0" d="M241.8,120.3c-7.6-23-49.1-36.4-94.4-36.4c-39.4,0-86.8,13.4-94.4,36.4c-9,27.4,32.2,59.2,94.4,59.2   C209.7,179.5,250.9,147.7,241.8,120.3z"/>
+	
+		<radialGradient id="SVGID_2_" cx="1992.3799" cy="1660.3306" r="30.856" gradientTransform="matrix(2.9565 0 0 1.3729 -5743.7305 -2133.1121)" gradientUnits="userSpaceOnUse">
+		<stop offset="0.1173" style="stop-color:#1C0B05"/>
+		<stop offset="0.2118" style="stop-color:#20100A"/>
+		<stop offset="0.3221" style="stop-color:#2D1E18"/>
+		<stop offset="0.4405" style="stop-color:#433530"/>
+		<stop offset="0.5647" style="stop-color:#615550"/>
+		<stop offset="0.6932" style="stop-color:#877E7B"/>
+		<stop offset="0.8255" style="stop-color:#B6B0AF"/>
+		<stop offset="0.9584" style="stop-color:#ECEBEB"/>
+		<stop offset="1" style="stop-color:#FFFFFF"/>
+	</radialGradient>
+	<ellipse class="st1" cx="146.7" cy="146.3" rx="98.6" ry="55.2"/>
+	
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-964.7585" y1="-739.2226" x2="-964.7585" y2="-880.5471" gradientTransform="matrix(0.7458 0 0 0.6631 866.9597 667.4124)">
+		<stop offset="0" style="stop-color:#FFFFFF"/>
+		<stop offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<path class="st2" d="M147.4,177.2c-49.9,0-82.9-19.6-92.4-37.9c-3.2-6.2-3.9-12.2-2-18c3.4-10.3,14.9-19.8,32.4-26.9   c17.6-7.1,39.6-11,62.1-11c22.4,0,44.5,3.9,62.1,11c17.5,7.1,29,16.6,32.4,26.9c1.9,5.7,1.2,11.8-2,18   C230.3,157.6,197.3,177.2,147.4,177.2z"/>
+	
+		<radialGradient id="SVGID_4_" cx="-964.7585" cy="-810.7117" r="133.9433" gradientTransform="matrix(0.7458 0 0 0.3612 866.9597 422.6611)" gradientUnits="userSpaceOnUse">
+		<stop offset="0.8214" style="stop-color:#FFFFFF"/>
+		<stop offset="0.8843" style="stop-color:#F8F7F7"/>
+		<stop offset="0.9826" style="stop-color:#E4E2E1"/>
+		<stop offset="1" style="stop-color:#E0DDDC"/>
+	</radialGradient>
+	<path class="st3" d="M147.4,175.1c-48.2,0-80.1-19-89.3-36.6c-3.1-6-3.8-11.8-1.9-17.4c3.3-9.9,14.4-19.2,31.3-26   c17-6.9,38.3-10.6,60-10.6c21.7,0,43,3.8,60,10.6c16.9,6.8,28,16.1,31.3,26c1.8,5.6,1.2,11.4-1.9,17.4   C227.6,156.2,195.7,175.1,147.4,175.1z"/>
+	<g>
+		
+			<image style="overflow:visible;" width="1071" height="463" xlink:href="EB971D75B985B963.png" transform="matrix(0.24 0 0 0.24 18.84 103.16)">
+		</image>
+	</g>
+	
+		<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="1071.7572" y1="155.3762" x2="1071.7572" y2="106.4758" gradientTransform="matrix(1.1966 0 0 1 -1135.0219 0)">
+		<stop offset="0.3265" style="stop-color:#D8D8D8"/>
+		<stop offset="1" style="stop-color:#B5B5B5"/>
+	</linearGradient>
+	<path class="st4" d="M205.9,125.9c-4.7-11.4-30.5-19.5-58.4-19.5s-53.7,8-58.4,19.5c-5.6,13.6,20.1,29.4,58.4,29.4   S211.4,139.6,205.9,125.9z"/>
+	<g>
+		<defs>
+			<path id="SVGID_6_" d="M241.8,120.3c-7.6-23-49.1-36.4-94.4-36.4c-39.4,0-86.8,13.4-94.4,36.4c-9,27.4,32.2,59.2,94.4,59.2     C209.7,179.5,250.9,147.7,241.8,120.3z"/>
+		</defs>
+		<clipPath id="SVGID_7_">
+			<use xlink:href="#SVGID_6_" style="overflow:visible;"/>
+		</clipPath>
+		<g class="st5">
+			<g class="st6">
+				
+					<image style="overflow:visible;" width="589" height="437" xlink:href="EB971D75B985B961.png" transform="matrix(0.24 0 0 0.24 137.88 89.96)">
+				</image>
+			</g>
+			<g class="st6">
+				
+					<image style="overflow:visible;" width="1192" height="599" xlink:href="EB971D75B985B96E.png" transform="matrix(0.24 0 0 0.24 15.96 29.24)">
+				</image>
+			</g>
+		</g>
+	</g>
+	
+		<radialGradient id="SVGID_8_" cx="1962.6847" cy="1513.4891" r="20.4438" gradientTransform="matrix(2.1875 0 0 0.992 -4146.915 -1371.7207)" gradientUnits="userSpaceOnUse">
+		<stop offset="0.5102" style="stop-color:#1C0B05"/>
+		<stop offset="0.5571" style="stop-color:#2A1A14"/>
+		<stop offset="0.6474" style="stop-color:#4D403B"/>
+		<stop offset="0.7717" style="stop-color:#877E7B"/>
+		<stop offset="0.9238" style="stop-color:#D5D2D1"/>
+		<stop offset="1" style="stop-color:#FFFFFF"/>
+	</radialGradient>
+	<ellipse class="st7" cx="146.5" cy="129.7" rx="60.2" ry="32.9"/>
+	
+		<radialGradient id="SVGID_9_" cx="149.7474" cy="114.9395" r="66.1591" gradientTransform="matrix(1 0 0 0.5228 0 54.8527)" gradientUnits="userSpaceOnUse">
+		<stop offset="0" style="stop-color:#FFFFFF"/>
+		<stop offset="0.2251" style="stop-color:#FCFCFB"/>
+		<stop offset="0.4263" style="stop-color:#F5F2F1"/>
+		<stop offset="0.6184" style="stop-color:#E7E2DE"/>
+		<stop offset="0.805" style="stop-color:#D5CBC5"/>
+		<stop offset="0.9859" style="stop-color:#BDAEA4"/>
+		<stop offset="1" style="stop-color:#BBABA1"/>
+	</radialGradient>
+	<path class="st8" d="M218.3,62.4c0,0,0,22.2-4.9,40.3c0,0-11.5,20.8-26.9,31.8c0,0-14.4,11.9-40,11.9c-23.9,0-40-11.9-40-11.9   c-15.4-11-26.9-31.8-26.9-31.8c-4.9-18.1-4.9-40.3-4.9-40.3"/>
+	<linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="200.0269" y1="115.3785" x2="189.473" y2="131.1409">
+		<stop offset="0.2449" style="stop-color:#B6AAA0"/>
+		<stop offset="0.2744" style="stop-color:#BBB0A7"/>
+		<stop offset="0.4786" style="stop-color:#DCD5D1"/>
+		<stop offset="0.6389" style="stop-color:#F0ECEA"/>
+		<stop offset="0.7347" style="stop-color:#F7F5F4"/>
+	</linearGradient>
+	<path class="st9" d="M208.1,111.1c0,0-12.9,4.5-14.6,6.5c0,0-4,8.8-4.8,15.3C196.7,126.4,203.6,117.5,208.1,111.1z"/>
+	<linearGradient id="SVGID_11_" gradientUnits="userSpaceOnUse" x1="74.9358" y1="96.5951" x2="218.0874" y2="84.7142">
+		<stop offset="0" style="stop-color:#FFFFFF"/>
+		<stop offset="3.010161e-04" style="stop-color:#FEFEFE"/>
+		<stop offset="9.717241e-03" style="stop-color:#E8E4E1"/>
+		<stop offset="2.011231e-02" style="stop-color:#D6CFC9"/>
+		<stop offset="3.198262e-02" style="stop-color:#C7BEB7"/>
+		<stop offset="4.599613e-02" style="stop-color:#BDB3AA"/>
+		<stop offset="6.420597e-02" style="stop-color:#B8ACA2"/>
+		<stop offset="0.102" style="stop-color:#B6AAA0"/>
+		<stop offset="0.2092" style="stop-color:#D2CBC5"/>
+		<stop offset="0.6786" style="stop-color:#F7F5F4"/>
+		<stop offset="1" style="stop-color:#E1DCD8"/>
+	</linearGradient>
+	<path class="st10" d="M146.5,124.4c30.4,0,57.4-8.7,66.9-21.8c4.9-18.1,4.9-40.3,4.9-40.3H74.6c0,0,0,22.2,4.9,40.3   C88.7,115.7,116,124.4,146.5,124.4z"/>
+	<linearGradient id="SVGID_12_" gradientUnits="userSpaceOnUse" x1="171.0447" y1="94.1969" x2="204.7738" y2="106.8696">
+		<stop offset="0" style="stop-color:#FFFFFF"/>
+		<stop offset="0.2181" style="stop-color:#F9F8F7"/>
+		<stop offset="0.5583" style="stop-color:#E9E4E1"/>
+		<stop offset="0.8878" style="stop-color:#D5CBC5"/>
+		<stop offset="0.9796" style="stop-color:#D5CBC5"/>
+	</linearGradient>
+	<path class="st11" d="M208.2,86.8c0,0-1.6-7.9-16.1-8.1c-14.4-0.2-18.6,11.9-18.6,21.6c0,8.9,2.1,23.2,14.3,25.1   c12.2,1.9,24.3-11.3,18.8-13.5c-3.8-1.5-7.9,0.1-9.5,1.6c-2.9,2.5-11.4,7.6-11.4-10.5c0-9.1,3.7-14,7.3-13.9   c2.8,0.1,5.4,3.2,6.1,9.7c0,0,4.6,2.8,7.5-0.7C209.5,94.5,208.2,86.8,208.2,86.8z"/>
+	<linearGradient id="SVGID_13_" gradientUnits="userSpaceOnUse" x1="207.143" y1="94.295" x2="199.7504" y2="112.8412">
+		<stop offset="0.1122" style="stop-color:#D5CBC5"/>
+		<stop offset="0.4417" style="stop-color:#E9E4E1"/>
+		<stop offset="0.7819" style="stop-color:#F9F8F7"/>
+		<stop offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<path class="st12" d="M200.5,96c0,0-4.5,7.9-6.4,18.1c4.1-1.7,10.2-4.5,13.2-6.5c1.9-3.1,3.4-6,3.7-7.2   C212.1,96.8,200.5,96,200.5,96z"/>
+	<linearGradient id="SVGID_14_" gradientUnits="userSpaceOnUse" x1="146.4578" y1="89.4912" x2="146.4578" y2="35.2135">
+		<stop offset="0" style="stop-color:#F2F2F2"/>
+		<stop offset="0.2379" style="stop-color:#E5E4E4"/>
+		<stop offset="0.6897" style="stop-color:#C3BFBE"/>
+		<stop offset="1" style="stop-color:#A9A2A0"/>
+	</linearGradient>
+	<ellipse class="st13" cx="146.5" cy="62.4" rx="71.8" ry="27.1"/>
+	<g>
+		
+			<image style="overflow:visible;" width="900" height="423" xlink:href="EB971D75B985B960.png" transform="matrix(0.24 0 0 0.24 38.52 26.12)">
+		</image>
+	</g>
+	<linearGradient id="SVGID_15_" gradientUnits="userSpaceOnUse" x1="79.2048" y1="61.8041" x2="213.7109" y2="61.8041">
+		<stop offset="0" style="stop-color:#B6ADA4"/>
+		<stop offset="0.132" style="stop-color:#C9C3BD"/>
+		<stop offset="0.3878" style="stop-color:#F6F6F6"/>
+		<stop offset="0.4651" style="stop-color:#F2F2F2"/>
+		<stop offset="0.5461" style="stop-color:#E5E5E5"/>
+		<stop offset="0.5612" style="stop-color:#E2E2E2"/>
+		<stop offset="0.6799" style="stop-color:#DAD8D5"/>
+		<stop offset="0.7908" style="stop-color:#D7D3CF"/>
+		<stop offset="0.7915" style="stop-color:#D7D3CF"/>
+		<stop offset="0.8444" style="stop-color:#C1B9B2"/>
+		<stop offset="0.8971" style="stop-color:#B1A79D"/>
+		<stop offset="0.9492" style="stop-color:#A79C91"/>
+		<stop offset="1" style="stop-color:#A4988D"/>
+	</linearGradient>
+	<ellipse class="st14" cx="146.5" cy="61.8" rx="67.3" ry="25.4"/>
+	<g>
+		
+			<image style="overflow:visible;" width="861" height="409" xlink:href="EB971D75B985B97A.png" transform="matrix(0.24 0 0 0.24 43.08 -0.28)">
+		</image>
+	</g>
+	<linearGradient id="SVGID_16_" gradientUnits="userSpaceOnUse" x1="193.4115" y1="111.0554" x2="250.7797" y2="111.0554">
+		<stop offset="2.040820e-02" style="stop-color:#D5CBC5"/>
+		<stop offset="0.1122" style="stop-color:#D5CBC5"/>
+		<stop offset="0.4417" style="stop-color:#E9E4E1"/>
+		<stop offset="0.7819" style="stop-color:#F9F8F7"/>
+		<stop offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<path class="st15" d="M202.6,105c-2-0.6-3.3-2.7-3-4.8c0.3-3,1.6-7.7,6.4-11.9c3.2-2.8,8.8-4.5,15.1-4.5   c15.3,0,29.8,11.6,29.8,28.8c0,11.8-8.9,19.7-13.8,22.6c-2.9,1.7-8,2.9-13.6,2.9c-15.4,0-25.2-11.2-29-16.5   c-1.2-1.8-1.2-4.1,0.2-5.8c1-1.3,2.5-2.8,4.5-4.2c4.7-3.2,9.1-2.3,9.1-2.3s2.9,8.3,10.3,10.8c10,3.3,16.1,0,16.1,0s4.3-17-13-21   C209.3,96.4,212.4,108,202.6,105C202.6,105,202.6,105,202.6,105z"/>
+	<g>
+		<path class="st16" d="M234.6,120.2c0,0,0.1-0.6,0.2-1.6c0.1-1,0.1-2.5,0-4.3c-0.1-1.8-0.6-3.8-1.5-5.7c-0.4-1-1-1.9-1.7-2.8    c-0.7-0.9-1.5-1.7-2.4-2.4c-1.8-1.5-3.9-2.5-6-3.1c-1-0.3-2.1-0.6-3.1-0.8c-1-0.2-1.9-0.3-2.8-0.2c-1.7,0-3.1,0.6-4,1.1    c-0.4,0.3-0.8,0.5-1,0.7c-0.2,0.2-0.3,0.3-0.3,0.3s0.1-0.1,0.3-0.3c0.2-0.2,0.5-0.5,0.9-0.8c0.8-0.6,2.2-1.4,4.1-1.5    c0.9-0.1,1.9,0,2.9,0.1c1,0.1,2.1,0.4,3.2,0.7c1.1,0.3,2.2,0.7,3.3,1.3c1.1,0.5,2.1,1.2,3.1,1.9c1.9,1.5,3.4,3.6,4.3,5.7    c0.9,2.1,1.2,4.3,1.2,6.1c0.1,1.8-0.2,3.3-0.3,4.3C234.8,119.7,234.6,120.2,234.6,120.2z"/>
+	</g>
+	<linearGradient id="SVGID_17_" gradientUnits="userSpaceOnUse" x1="198.6602" y1="112.4859" x2="228.2662" y2="129.2992">
+		<stop offset="0" style="stop-color:#CECAC7"/>
+		<stop offset="0.2755" style="stop-color:#F0EEED"/>
+		<stop offset="0.4536" style="stop-color:#ECEAE9"/>
+		<stop offset="0.6402" style="stop-color:#E1DEDC"/>
+		<stop offset="0.83" style="stop-color:#CFCAC7"/>
+		<stop offset="1" style="stop-color:#B8B2AE"/>
+	</linearGradient>
+	<path class="st17" d="M234.6,120.2c0,0-6.1,3.4-16.1,0c-7.5-2.5-10.3-10.8-10.3-10.8s-4.5-0.9-9.1,2.3c-2.3,1.6-3.9,3.3-4.9,4.7   c2.4,5.1,6.7,10.9,13.5,13.5C224.1,136.2,233.5,124.9,234.6,120.2z"/>
+	<g>
+		<path class="st16" d="M194.1,116.4c0,0,0.4,0.7,1.1,1.9c0.4,0.6,0.8,1.3,1.4,2.1c0.6,0.8,1.3,1.7,2,2.6c0.8,0.9,1.7,1.8,2.8,2.7    c1,0.9,2.2,1.7,3.5,2.4c0.3,0.2,0.6,0.4,1,0.5c0.3,0.2,0.7,0.3,1,0.5c0.3,0.1,0.7,0.3,1.1,0.4c0.4,0.1,0.8,0.2,1.1,0.4    c1.5,0.5,3.1,0.8,4.6,1.1c0.8,0.1,1.6,0.2,2.4,0.2c0.8,0,1.6,0,2.3,0c0.8-0.1,1.5-0.2,2.3-0.3c0.7-0.1,1.5-0.4,2.2-0.5    c0.7-0.2,1.4-0.5,2-0.7c0.6-0.3,1.3-0.6,1.9-0.9c0.6-0.4,1.2-0.7,1.7-1.1c0.5-0.4,1-0.7,1.5-1.1c0.9-0.8,1.7-1.6,2.3-2.3    c0.3-0.4,0.6-0.7,0.8-1.1c0.2-0.4,0.4-0.7,0.6-1c0.3-0.6,0.6-1.1,0.7-1.5c0.1-0.4,0.2-0.5,0.2-0.5s-0.1,0.2-0.2,0.6    c-0.1,0.4-0.3,0.9-0.6,1.5c-0.2,0.3-0.4,0.7-0.6,1c-0.2,0.4-0.5,0.7-0.8,1.2c-0.6,0.8-1.3,1.7-2.2,2.5c-0.4,0.4-1,0.8-1.5,1.2    c-0.5,0.4-1.1,0.8-1.7,1.2c-0.6,0.4-1.3,0.7-1.9,1c-0.7,0.3-1.4,0.6-2.1,0.8c-0.7,0.2-1.5,0.4-2.3,0.6c-0.8,0.1-1.6,0.3-2.4,0.3    c-0.8,0-1.6,0.1-2.5,0.1c-0.8-0.1-1.6-0.1-2.5-0.2c-1.6-0.3-3.3-0.6-4.7-1.2c-0.4-0.1-0.8-0.2-1.1-0.4c-0.4-0.1-0.8-0.3-1.1-0.5    c-0.4-0.1-0.7-0.3-1.1-0.5c-0.4-0.2-0.7-0.4-1-0.6c-2.7-1.5-4.7-3.6-6.3-5.5c-1.5-1.9-2.5-3.7-3.2-5c-0.3-0.6-0.5-1.1-0.7-1.5    C194.2,116.6,194.1,116.4,194.1,116.4z"/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_18_" d="M202.6,105c-2-0.6-3.3-2.7-3-4.8c0.3-3,1.6-7.7,6.4-11.9c3.2-2.8,8.8-4.5,15.1-4.5     c15.3,0,29.8,11.6,29.8,28.8c0,11.8-8.9,19.7-13.8,22.6c-2.9,1.7-8,2.9-13.6,2.9c-15.4,0-25.2-11.2-29-16.5     c-1.2-1.8-1.2-4.1,0.2-5.8c1-1.3,2.5-2.8,4.5-4.2c4.7-3.2,9.1-2.3,9.1-2.3s2.9,8.3,10.3,10.8c10,3.3,16.1,0,16.1,0s4.3-17-13-21     C209.3,96.4,212.4,108,202.6,105C202.6,105,202.6,105,202.6,105z"/>
+		</defs>
+		<clipPath id="SVGID_19_">
+			<use xlink:href="#SVGID_18_" style="overflow:visible;"/>
+		</clipPath>
+		<g class="st18">
+			
+				<image style="overflow:visible;" width="465" height="515" xlink:href="EB971D75B985B97B.png" transform="matrix(0.24 0 0 0.24 175.32 47.72)">
+			</image>
+		</g>
+		<g class="st18">
+			
+				<image style="overflow:visible;" width="515" height="372" xlink:href="EB971D75B985B97C.png" transform="matrix(0.24 0 0 0.24 158.52 84.44)">
+			</image>
+		</g>
+		<g class="st19">
+			
+				<image style="overflow:visible;" width="404" height="385" xlink:href="EB971D75B985B97D.png" transform="matrix(0.24 0 0 0.24 163.8 48.68)">
+			</image>
+		</g>
+	</g>
+	<linearGradient id="SVGID_20_" gradientUnits="userSpaceOnUse" x1="180.4134" y1="89.7938" x2="179.6325" y2="121.0288">
+		<stop offset="0" style="stop-color:#FFFFFF"/>
+		<stop offset="5.962527e-02" style="stop-color:#ECECEC"/>
+		<stop offset="0.3276" style="stop-color:#999999"/>
+		<stop offset="0.565" style="stop-color:#575757"/>
+		<stop offset="0.7629" style="stop-color:#282828"/>
+		<stop offset="0.9139" style="stop-color:#0B0B0B"/>
+		<stop offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path class="st20" d="M174.5,119.3c3.4-0.6,6.7-1.3,9.8-2.1l1.3-30.3l-10.4,2.5L174.5,119.3z"/>
+	<linearGradient id="SVGID_21_" gradientUnits="userSpaceOnUse" x1="172.3843" y1="92.3635" x2="171.6556" y2="121.5127">
+		<stop offset="0" style="stop-color:#FFFFFF"/>
+		<stop offset="5.962527e-02" style="stop-color:#ECECEC"/>
+		<stop offset="0.3276" style="stop-color:#999999"/>
+		<stop offset="0.565" style="stop-color:#575757"/>
+		<stop offset="0.7629" style="stop-color:#282828"/>
+		<stop offset="0.9139" style="stop-color:#0B0B0B"/>
+		<stop offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path class="st21" d="M170.3,120c0.8-0.1,1.6-0.2,2.4-0.4l1.3-30.1l-3,0.7L170.3,120z"/>
+	<g>
+		<ellipse class="st22" cx="146.3" cy="61.9" rx="67.8" ry="24.7"/>
+		<g>
+			
+				<image style="overflow:visible;" width="844" height="499" xlink:href="EB971D75B985B97E.png" transform="matrix(0.24 0 0 0.24 45 2.12)">
+			</image>
+		</g>
+		<g class="st23">
+			
+				<image style="overflow:visible;" width="371" height="412" xlink:href="CD74203D053CBFE.png" transform="matrix(0.24 0 0 0.24 50.52 11.48)">
+			</image>
+		</g>
+		<g class="st24">
+			
+				<image style="overflow:visible;" width="566" height="466" xlink:href="CD74203D053CBFB.png" transform="matrix(0.24 0 0 0.24 104.04 8.36)">
+			</image>
+		</g>
+		<g class="st24">
+			
+				<image style="overflow:visible;" width="537" height="448" xlink:href="CD74203D053CBE6.png" transform="matrix(0.24 0 0 0.24 104.04 9.8)">
+			</image>
+		</g>
+		<g class="st25">
+			
+				<image style="overflow:visible;" width="407" height="358" xlink:href="CD74203D053CBE9.png" transform="matrix(0.24 0 0 0.24 59.4 29.72)">
+			</image>
+		</g>
+		<g>
+			
+				<image style="overflow:visible;" width="551" height="318" xlink:href="CD74203D053CBEA.png" transform="matrix(0.24 0 0 0.24 78.84 6.2)">
+			</image>
+		</g>
+		<g class="st26">
+			
+				<image style="overflow:visible;" width="402" height="379" xlink:href="CD74203D053CBEB.png" transform="matrix(0.24 0 0 0.24 87.72 17.72)">
+			</image>
+		</g>
+		<g class="st27">
+			
+				<image style="overflow:visible;" width="452" height="400" xlink:href="CD74203D053CBEC.png" transform="matrix(0.24 0 0 0.24 76.92 14.84)">
+			</image>
+		</g>
+		<g class="st28">
+			
+				<image style="overflow:visible;" width="508" height="421" xlink:href="CD74203D053CBED.png" transform="matrix(0.24 0 0 0.24 64.68 11.72)">
+			</image>
+		</g>
+		<g class="st26">
+			
+				<image style="overflow:visible;" width="397" height="379" xlink:href="CD74203D053CBEE.png" transform="matrix(0.24 0 0 0.24 110.76 17.72)">
+			</image>
+		</g>
+		<g class="st27">
+			
+				<image style="overflow:visible;" width="444" height="400" xlink:href="CD74203D053CBEF.png" transform="matrix(0.24 0 0 0.24 110.04 14.84)">
+			</image>
+		</g>
+		<g class="st28">
+			
+				<image style="overflow:visible;" width="493" height="420" xlink:href="CD74203D053CC06.png" transform="matrix(0.24 0 0 0.24 110.28 11.96)">
+			</image>
+		</g>
+		<g class="st29">
+			
+				<image style="overflow:visible;" width="427" height="349" xlink:href="CD74203D053CC02.png" transform="matrix(0.24 0 0 0.24 95.64 22.28)">
+			</image>
+		</g>
+	</g>
+</g>
+</svg>
